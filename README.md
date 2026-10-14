@@ -2,7 +2,7 @@
 
 **I build the internal systems that make a team's recurring work disappear.**
 
-> **Open to subcontracting for automation agencies.** Remote, immediate availability.
+Open to **subcontracting for automation agencies**. Remote, immediate availability.
 
 Three and a half years in operations at a mobility operator (300+ vehicles and drivers), a year working in Australia, and since March 2026 independent: five systems delivered for three clients, all running in production.
 
