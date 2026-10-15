@@ -1,10 +1,10 @@
 # Antoine Moineaux
 
-**I build the internal systems that make a team's recurring work disappear.**
+**I design and deploy internal systems that reduce manual work and improve operational reliability.**
 
 Open to **subcontracting for automation agencies**. Remote, immediate availability.
 
-Three and a half years in operations at a mobility operator (300+ vehicles and drivers), a year working in Australia, and since March 2026 independent: five systems delivered for three clients, all running in production.
+Three and a half years in operations at a mobility operator (300+ vehicles and drivers), a year working in Australia, and since March 2026 independent: five systems delivered and deployed to production for three clients.
 
 ## What I actually do
 
