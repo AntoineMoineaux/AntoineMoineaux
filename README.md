@@ -18,7 +18,7 @@ Inbound request to qualified CRM record in under two minutes instead of ten. The
 
 ### [ai-financial-admin-automation](https://github.com/AntoineMoineaux/ai-financial-admin-automation)
 
-Every payment linked to the document that proves it: 46 of 46, across 213 centralised documents. A document without an identifiable amount is never sent to the model and never guessed, it goes to a human. **In production since June 2026.**
+Every payment linked to the document that proves it: 46 of 46, across 213 centralised documents. Nothing is ever guessed: when an amount cannot be identified, or when the model output is unusable, the record is still written, flagged for human review, with the reason. **In production since June 2026.**
 
 ## How I build
 
