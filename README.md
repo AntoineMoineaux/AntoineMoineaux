@@ -25,7 +25,7 @@ Every payment linked to the document that proves it: 46 of 46, across 213 centra
 - **The CRM is queried before any write.** Cleaning duplicates afterwards is a battle you lose.
 - **Nothing runs twice.** Re-running an operation cannot create a second record.
 - **Nothing is guessed.** Ambiguous input goes to a review queue, never to the model.
-- **Nothing depends on one person, including me.** Documented and handed over.
+- **Nothing runs by hand.** No human step per item: the chain is autonomous, documented and structured so someone else can pick it up.
 
 ## Stack
 
